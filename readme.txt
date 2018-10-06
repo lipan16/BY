@@ -1,4 +1,5 @@
-cat readme.txt
+vim readme.txt
+caaat readme.txt
 git is a version control system
 git is free software distributed under the GPL
-git has a mutable index called atage
+:it has a mutable index called atage
